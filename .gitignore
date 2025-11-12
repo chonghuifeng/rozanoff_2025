@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific ignores
+# Virtual environment for this project
+rozanoff_env/
+
+# Notebook checkpoints and large data
+.ipynb_checkpoints/
+toy_problems/weatherAUS.csv
+
+# VS Code settings folder
+.vscode/
