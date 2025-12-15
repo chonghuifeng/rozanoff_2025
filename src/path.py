@@ -12,6 +12,8 @@ import os
 # Paths #
 #########
 
+# .\rozanoff_env\Scripts\Activate.ps1
+
 # Root
 PATH_ROOT_FOLDER = os.path.dirname(os.path.dirname(__file__))
 PATH_DATA_FOLDER = os.path.join(PATH_ROOT_FOLDER, "original_data")
