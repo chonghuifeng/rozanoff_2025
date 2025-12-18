@@ -1,9 +1,9 @@
-#  🔥Project Rozanoff 2025  
-**Development of Low-Order Methods for H₂ Combustion Chamber Design**
+#  🔥Projet Rozanoff 2025  
+**Développement des méthodes bas-ordre pour la conception de chambres de combustion H2**
 
 ---
 
-## 👥 Team Members
+## 👥 Membres
 1. **Baptiste BOUCHEZ**
 2. **Adrien ESCARAVAGE**
 3. **Chong Hui FENG**
