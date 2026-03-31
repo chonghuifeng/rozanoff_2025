@@ -21,10 +21,9 @@ PATH_FLAMELENGTH_FOLDER = os.path.join(PATH_ROOT_FOLDER, "flame_length_pred")
 
 # Data
 PATH_DATASETV1 = os.path.join(PATH_DATA_FOLDER, "DataSetV1.xlsx")
+PATH_ADD_DATA = os.path.join(PATH_DATA_FOLDER, "AdditionalData.xlsx")
 PATH_DATA_FLAMELENGTH = os.path.join(PATH_DATA_FOLDER, "FlameLength.xlsx")
 PATH_DATA_FLAMELENGTH_NEW = os.path.join(
     PATH_FLAMELENGTH_FOLDER, "DatasetFlameComplet.xlsx"
 )
-PATH_DATA_FLAMELENGTH_MERGED = os.path.join(
-    PATH_FLAMELENGTH_FOLDER, "merged_cleaned_with_flame.csv"
-)
+PATH_DATA_FLAMELENGTH_MERGED = os.path.join(PATH_FLAMELENGTH_FOLDER, "merged_df.csv")
