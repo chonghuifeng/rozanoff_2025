@@ -66,3 +66,5 @@ d’un fichier CSV contenant les variables physiques et les longueurs de flamme 
 d'un fichier CSV contenant les variables physiques et les noms des images correspondantes : longueur de flammes sont reconstruites
 d’un dossier d’images organisé selon les paramètres géométriques
 Les chemins vers les images sont reconstruits dynamiquement à partir des informations du CSV.
+
+Les résultats finaux de cette section du projet se trouvent dans le fichier Benchmark_ML_PLS.ipynb.
